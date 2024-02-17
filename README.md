@@ -33,7 +33,7 @@ Done!
 
 ## How to use
 
-Press **Use this template** on this page and create a new repo. Select **private** repo if any of your assets are going to be proprietary! Then clone it on your computer using your favorite Git GUI/client. Rename `Project.als` to whatever you want, open in Ableton Live and have fun! Don't forget to commit your changes regularly :)
+Press **Use this template** on this page and create a new repo. Select **private** repo if any of your assets are going to be proprietary! Then clone it to your _Projects_ directory using your favorite Git GUI/client. Optionally rename `Project.als` to whatever you want, open in Ableton Live and have fun! Don't forget to commit your changes regularly :)
 
 ## Caveats
 
